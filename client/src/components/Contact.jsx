@@ -51,7 +51,7 @@ function Contact() {
       <div className="contact-info">
         <div className="avail-badge">
           <span className="avail-dot" />
-          Open to Work — Immediate Join
+        deployment_status : available_in_30_days
         </div>
         <div style={{ height: 8 }} />
         <div className="c-row"><span className="c-label">email</span><span className="c-val"><a href="mailto:rajeshmerndev@gmail.com">rajeshmerndev@gmail.com</a></span></div>

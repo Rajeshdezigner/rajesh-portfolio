@@ -1,40 +1,43 @@
 const EXPERIENCE = [
   {
-    dates: 'Jan 2022 → present',
-    branch: 'main branch',
-    branchColor: 'var(--green)',
-    role: 'Senior MERN Full Stack Developer',
-    company: 'Nittany Creative Services — Chennai',
-    bullets: [
-      'Architected React + Node.js apps serving 10,000+ daily active users',
-      'Cut page load time 42% via React lazy loading + Redis caching',
-      'Shipped real-time features (Socket.io) boosting engagement 28%',
-      'Led code reviews, CI/CD pipelines, and mentored 2 junior devs',
-    ],
-  },
-  {
-    dates: 'May 2020 → Dec 2021',
-    branch: 'freelance branch',
-    branchColor: 'var(--orange)',
-    role: 'MERN Stack Developer',
-    company: 'Freelance / Contract — Chennai',
-    bullets: [
-      'Delivered 8+ full-stack apps across healthcare, e-commerce & education',
-      'Integrated Razorpay, Stripe, Nodemailer, and Twilio APIs',
-      'Maintained 90+ Google PageSpeed scores across all projects',
-    ],
-  },
-  {
-    dates: 'Apr 2019 → Apr 2020',
-    branch: 'initial commit',
-    branchColor: 'var(--purple)',
-    role: 'Web Designer & Frontend Developer',
-    company: 'Creative Agency — Chennai',
-    bullets: [
-      'Built 15+ responsive websites — HTML5, CSS3, Bootstrap, JavaScript',
-      'Reduced avg page size 30%, improved Core Web Vitals across portfolio',
-    ],
-  },
+  dates: 'Jan 2022 → Present',
+  branch: 'main branch',
+  branchColor: 'var(--green)',
+  role: 'Senior MERN Full Stack Developer',
+  company: 'Synthesis Health Soft — Chennai',
+  bullets: [
+    'Designed and scaled healthcare platforms handling thousands of daily transactions',
+    'Built reusable React architecture reducing development effort across multiple modules',
+    'Implemented secure REST APIs, JWT authentication, RBAC and audit logging',
+    'Automated deployments using Docker and CI/CD pipelines, reducing release time significantly',
+  ],
+},
+{
+  dates: 'May 2020 → Dec 2021',
+  branch: 'feature branch',
+  branchColor: 'var(--orange)',
+  role: 'MERN Stack Developer',
+  company: 'IO Ready — Malaysia (Remote)',
+  bullets: [
+    'Developed end-to-end SaaS products from requirement gathering to production deployment',
+    'Integrated payment gateways, email services, SMS notifications and third-party APIs',
+    'Optimized MongoDB queries and backend services for improved performance and scalability',
+    'Collaborated with UI/UX teams to transform complex workflows into intuitive user experiences',
+  ],
+},
+{
+  dates: 'Apr 2019 → Apr 2020',
+  branch: 'initial commit',
+  branchColor: 'var(--purple)',
+  role: 'Frontend Developer',
+  company: 'Spider Web India — Bengaluru (Remote)',
+  bullets: [
+    'Crafted responsive business websites with pixel-perfect UI implementation',
+    'Converted design mockups into production-ready interfaces using modern frontend practices',
+    'Improved website performance, accessibility and cross-browser compatibility',
+    'Established reusable component patterns that accelerated future project delivery',
+  ],
+},
 ]
 
 function Experience() {

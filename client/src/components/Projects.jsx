@@ -1,10 +1,10 @@
 const PROJECTS = [
   {
     num: '// project_01.jsx',
-    name: 'MediCare Member Portal',
-    desc: 'Full-stack healthcare platform with appointment booking, prescription management & integrated payments. Serving 5,000+ active patients.',
-    stack: ['React', 'Node.js', 'MongoDB', 'JWT', 'Razorpay'],
-    metric: '→ 60% faster scheduling · 5k+ users',
+    name: 'Employee Management System',
+    desc: 'Full-stack HR platform with role-based access (admin, manager, employee), attendance tracking, leave management, payroll summary, and real-time notifications.',
+    stack: ['React', 'Node.js', 'MongoDB', 'Express', 'JWT', 'Tailwind CSS'],
+    metric: '→ RBAC security · 500+ employees',
     github: '#',
     demo: '#',
   },

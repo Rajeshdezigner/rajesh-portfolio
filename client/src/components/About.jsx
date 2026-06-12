@@ -40,7 +40,9 @@ function About() {
 
         <div style={{ marginTop: 6 }}><span className="tprompt">❯ </span><span className="tcmd">cat skills.json</span></div>
         <div><span className="tout">{'{'}</span></div>
-        <div><span className="tout">&nbsp;&nbsp;</span><span className="tkey">"frontend"</span><span className="tout">: </span><span className="tval">["React","Next.js","TypeScript","Redux","Tailwind"]</span><span className="tout">,</span></div>
+        <div><span className="tout">&nbsp;&nbsp;</span><span className="tkey">"frontend"</span><span className="tout">: </span>
+        
+        <span className="tval">["React","Next.js" ,"Redux","Tailwind"]</span><span className="tout">,</span></div>
         <div><span className="tout">&nbsp;&nbsp;</span><span className="tkey">"backend"</span><span className="tout">: &nbsp;</span><span className="tval">["Node.js","Express","GraphQL","REST","WebSockets"]</span><span className="tout">,</span></div>
         <div><span className="tout">&nbsp;&nbsp;</span><span className="tkey">"database"</span><span className="tout">: </span><span className="tval">["MongoDB","Redis","MySQL","PostgreSQL"]</span><span className="tout">,</span></div>
         <div><span className="tout">&nbsp;&nbsp;</span><span className="tkey">"devops"</span><span className="tout">: &nbsp;</span><span className="tval">["Docker","AWS","Git","Netlify","Vercel","CI/CD"]</span></div>
@@ -52,7 +54,7 @@ function About() {
         <div><span className="tkey">2f08e1c</span><span className="tout"> feat: real-time chat @ 2k concurrent via Socket.io</span></div>
 
         <div style={{ marginTop: 6 }}><span className="tprompt">❯ </span><span className="tcmd">node -e "console.log(process.env.AVAILABILITY)"</span></div>
-        <div><span className="tok">✓ Open to Senior MERN Roles // Immediate Join</span></div>
+        <div><span className="tok">✓ Open to  MERN Full Stack Roles // 30 Days Notice Period</span></div>
 
         <div style={{ marginTop: 6 }}>
           <span className="tprompt">❯ </span>
